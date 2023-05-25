@@ -1,0 +1,49 @@
+body{
+    background: skyblue;
+  }
+  
+  .Kevin{
+    width: 410px;
+    margin: 50px auto;
+    padding: 10px;
+  }
+    
+  .inputs {
+    padding: 2rem 0 2rem 0;
+    text-align: center;
+    justify-content: center;
+    background: skyblue;
+  }
+    
+  .inputs input[type="text"] {
+    height: 3.5rem;
+    width: 20rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    border: 2px solid black;
+    margin-right:4px ;
+  }
+    
+  .inputs input[type="submit"] {
+    height: 3.2rem;
+    width: 6.5rem;
+    background: red;
+    color: white;
+    font-size: 1.2rem;
+    margin-top: 20px;
+  }
+    
+  .Kevin {
+    text-align: center;
+    width: 400px;
+  }
+  
+  .Kevin2 {
+    margin: 0 9rem;
+    background-color: skyblue;
+    height: 45vh;
+    margin: 50px auto;
+  }
